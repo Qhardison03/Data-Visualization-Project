@@ -3,7 +3,7 @@
 This project is designed to showcase my skills in information visualization using real data and applications. 
 
 # Getting Started
-  # Dataset | Applications Used:
+  ## Dataset | Applications Used:
    - http://jse.amstat.org/datasets/airport.dat.txt | http://jse.amstat.org/jse_data_archive.htm
    - Microsoft Excel
    - Tableau
@@ -22,10 +22,10 @@ I chose a dataset that involved various United States airport statistics. The da
  - Explained in detail and included in my Value of Visualization Report
  - Explained in detail and included in my Information Visualization Report
 
-  # SUMMARY 
+  ## SUMMARY 
 I created two verisons of information visualization with the United States major cities airport data. 
 
-  The first verision (with Microsoft Excel): 
+  **The first verision (with Microsoft Excel):** 
    - Okay data-to-ink ratio
    - Colors make it simple to differentiate between the meaning of the lines
    - Begans to provide an unclear image with all the lines being close to each other
@@ -34,7 +34,7 @@ I created two verisons of information visualization with the United States major
      
      ![Data-Visualization-V1-Excel](https://github.com/Qhardison03/Data-Visualization-Project/assets/97970561/49373936-5be4-4db6-b38b-a58c2406f7fd)
 
-  Improvements of second verison (with Tableau): 
+  **Improvements of second verison (with Tableau):** 
     - Image shows variables set by multiple measurements, grouped and separated on the left by the city.
     - Includes the use of color and glyphs to separate the variables:
       - Blue Person with suitcase --> Repreesents the Total Amount of Passengers 
