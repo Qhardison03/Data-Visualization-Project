@@ -35,11 +35,12 @@ I created two verisons of information visualization with the United States major
      ![Data-Visualization-V1-Excel](https://github.com/Qhardison03/Data-Visualization-Project/assets/97970561/49373936-5be4-4db6-b38b-a58c2406f7fd)
 
   **Improvements of second verison (with Tableau):** 
-    - Image shows variables set by multiple measurements, grouped and separated on the left by the city.
-    - Includes the use of color and glyphs to separate the variables:
+  - Image shows variables set by multiple measurements, grouped and separated on the left by the city.
+  - Includes the use of color and glyphs to separate the variables:
       - Blue Person with suitcase --> Repreesents the Total Amount of Passengers 
       - Red Calendar with time clock --> Represents the Total Amount of Scheduled Departures 
       - Green Plane taking off, with arrow pointing up --> Represents the Total Amount of Performed Departures
-      - Brown Package box --> Represents the Total Amount of Cargo Moved (in tons) 
+      - Brown Package box --> Represents the Total Amount of Cargo Moved (in tons)
+    
+![Data-Visualization-V2-Tableau](https://github.com/Qhardison03/Data-Visualization-Project/assets/97970561/48ec7dc5-482c-4f6c-9af0-5701f76b85f2)
 
-      ![Data-Visualization-V2-Tableau](https://github.com/Qhardison03/Data-Visualization-Project/assets/97970561/ec9738d1-4f0e-4925-8d10-5ae2e1323890)
